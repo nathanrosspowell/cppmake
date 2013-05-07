@@ -1,3 +1,11 @@
+# Things...
+*.*~
+build/
+*.swp
+*.*~
+build/
+source/tags
+
 # Compiled Object files
 *.slo
 *.lo
